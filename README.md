@@ -3,7 +3,11 @@
 # 💫 About Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahuminskyi)
 
-Experienced Lead iOS Developer with over 10 years of experience in developing iOS<br>apps in Swift, SwiftUI, and Objective-C.
+Android engineer with 6.5+ years of experience in building, integrating, testing, and supporting full-cycle
+applications with 10k+ users for mobile and tablet devices. Skilled not only in Android development but also
+have first-hand experience in Flutter technology: a valuable development tool that responds rapidly to
+customer requirements. Enjoy staying abreast of industry trends and new technologies and being open to
+implementing innovations to maintain a competitive edge.
 
 ## 💻 Tech Stack:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
